@@ -16,4 +16,4 @@ The winner gets to play the main game
 5. Select the options in correct sequence, the winner will be displayed on the host machine on the python console
 7. Run gamerules.py on winners machine or any machine to play the main game
 
-#https://youtu.be/fuOUpmskZAk
+# https://youtu.be/fuOUpmskZAk

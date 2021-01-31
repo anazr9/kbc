@@ -17,3 +17,4 @@ The winner gets to play the main game
 7. Run gamerules.py on winners machine or any machine to play the main game
 
 # https://youtu.be/fuOUpmskZAk
+Guided by Prof Mudassar Ansari(Royal College, Mira Road)
